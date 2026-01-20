@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Dog School Plus",
+  "description": "An integrated pet management system for shops, daycare, and veterinary clinics featuring a modern, colorful interface with complete administrative and operational control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
